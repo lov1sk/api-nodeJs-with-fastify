@@ -1,0 +1,9 @@
+# Denpendencies
+node_modules
+
+# Database
+db/*.db
+
+# Environement
+.env
+.env.test
