@@ -1,5 +1,6 @@
 # Denpendencies
 node_modules
+build
 
 # Database
 db/*.db
