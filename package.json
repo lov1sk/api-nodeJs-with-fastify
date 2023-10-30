@@ -1,6 +1,9 @@
 {
   "name": "submodulo-2---banco-de-dados",
   "version": "1.0.0",
+  "engines": {
+    "node": ">= 18"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
