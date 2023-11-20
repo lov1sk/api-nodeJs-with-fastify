@@ -7,3 +7,6 @@ app.register(cookie);
 app.register(TransactionsRoutes, {
   prefix: "/transactions",
 });
+app.get("/", async (req, res) => {
+  return "Bem vindo, link do GitHub para documentação: https://github.com/lov1sk/api-nodeJs-with-fastify";
+});
